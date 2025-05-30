@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chksaikumar)
+
 
 ### Hey there! 👋 I'm Saikumar
 
