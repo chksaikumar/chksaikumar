@@ -7,7 +7,12 @@
 - 💬 Forever learning, forever building — from `console.log("hello world")` to full production apps  
 - 💞️ Always open to collaborate on meaningful **open-source** projects  
 - 🌐 Portfolio: [devrapper.com](https://devrapper.com)  
-- 📫 Reach me at: chksaikumar.0297@gmail.com / saikumar@devrapper.com  
+- 📫 Reach me at: chksaikumar.0297@gmail.com / saikumar@devrapper.com
+- 
+## 🤝 Let's Connect
+- 🌐 Portfolio: ![devrapper.com](https://devrapper.com)  
+- 💼 LinkedIn: ![linkedin.com/in/chksaikumar](https://linkedin.com/in/chksaikumar)
+
 
 ---
 
@@ -75,6 +80,8 @@
 
 
 ---
+
+
 
 
 
