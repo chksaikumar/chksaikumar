@@ -10,8 +10,8 @@
 - 📫 Reach me at: chksaikumar.0297@gmail.com / saikumar@devrapper.com
 - 
 ## 🤝 Let's Connect
-- 🌐 Portfolio: ![devrapper.com](https://devrapper.com)  
-- 💼 LinkedIn: ![linkedin.com/in/chksaikumar](https://linkedin.com/in/chksaikumar)
+- 🌐 Portfolio: [devrapper.com](https://devrapper.com)  
+- 💼 LinkedIn: [linkedin.com/in/chksaikumar](https://linkedin.com/in/chksaikumar)
 
 
 ---
